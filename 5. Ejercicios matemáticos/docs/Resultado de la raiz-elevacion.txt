@@ -1,0 +1,4 @@
+Resultado de la raiz-elevacion
+
+La raiz cuadrada de: 66 es: 8.12403840463596 
+Elevado a la 2 potencia, da como resultado: 66.00000000000001
