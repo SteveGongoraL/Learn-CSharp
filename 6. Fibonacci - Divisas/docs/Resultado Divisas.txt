@@ -1,0 +1,5 @@
+El resultado de las divisas seleccionadas es la siguiente:
+
+EURO 
+Cantidad en Pesos Mexicanos: 18000 
+La divisa en Euro es: 756
