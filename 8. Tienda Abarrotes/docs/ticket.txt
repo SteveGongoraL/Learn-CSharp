@@ -1,0 +1,10 @@
+ABARROTES LEARN-CSHARP
+
+Item  C  c/u  Total
+frituras 2 $9 $18
+galletas 2 $10 $20
+
+TOTAL COMPRA: $38
+
+Significado: 
+Item= Nombre Producto. C= Cantidad. c/u= Precio Unitario.
