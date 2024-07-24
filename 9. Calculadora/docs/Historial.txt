@@ -1,0 +1,5 @@
+Los resultados fueron los siguientes:
+
+Suma: 10
+Resta: 2
+Multiplicación: 5800
