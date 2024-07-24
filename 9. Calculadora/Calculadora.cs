@@ -158,10 +158,11 @@ namespace CSharpCalculadora
                             sw.WriteLine(historialOperaciones[x]);
                         }
                         sw.Close();
-                        Console.WriteLine("\nLos resultados fueron guardados en un archivo txt en la carpeta docs");
+                        Console.WriteLine("\nEl historial se guardo en la carpeta docs");
                     }
 
                     Console.WriteLine("\nPrograma terminado");
+
                     // Romper el ciclo
                     continuar = false;
                 }
